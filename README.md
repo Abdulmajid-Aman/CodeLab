@@ -1,5 +1,10 @@
 # WEEK TWO CODE LAB CHALLENGE
 
+
+#### Deployable link to my Website:
+-  **https://abdulmajid-aman.github.io/CodeLab/**
+
+
 #### Code challenge
 - Create a shopping list that allows the user to add items to the list and remove items from the list
 
@@ -87,9 +92,5 @@ Technologies Used
 
 # License
 This project is licensed under the **MIT License** - see the LICENSE file for details.
-
-
-#### Deployable link to my Website:
--  https://abdulmajid-aman.github.io/CodeLab/
 
 Project By : **Abdulmajid Aman Hussein**
