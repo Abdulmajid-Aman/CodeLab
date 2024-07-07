@@ -1,13 +1,13 @@
 # WEEK TWO CODE LAB CHALLENGE
 
+
+#### Code challenge
+- Create a shopping list that allows the user to add items to the list and remove items from the list
+
 # Learning Outcomes
 - **Array Iteration:** Practice iterating through an array to access and manipulate list items.
 - **DOM Manipulation:** Gain experience dynamically modifying the DOM based on user interaction.
 - **Event Handling:** Reinforce understanding of event listeners and their use in creating interactive applications.
-
-
-#### Code challenge
-- Create a shopping list that allows the user to add items to the list and remove items from the list
 
 # Interactive Shopping List
 An interactive shopping list web application where users can add items, mark them as purchased, and clear the list. This project demonstrates basic web development techniques, including array handling, DOM manipulation, and event handling.
@@ -40,15 +40,21 @@ Technologies Used
 # Installation
 1. **Clone the Repository:**
 `sh`
+
 **Copy code**
-git clone https://github.com/Abdulmajid-Aman/CodeLab
+ - git clone https://github.com/Abdulmajid-Aman/CodeLab
+
 2. **Navigate to the Project Directory:**
 `sh`
+
 **Copy code**
+
 ``cd Week2``
 ``cd CodeLab``
+
 4. **Open the index.html File in Your Browser:**
-sh
+``sh``
+
 **Copy code**
 ``open index.html``
 
