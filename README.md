@@ -12,6 +12,21 @@
 # Interactive Shopping List
 An interactive shopping list web application where users can add items, mark them as purchased, and clear the list. This project demonstrates basic web development techniques, including array handling, DOM manipulation, and event handling.
 
+
+### Table of Contents
+- Features
+- Technologies Used
+- Demo
+- Installation
+- Usage
+- File Structure
+- HTML Structure
+- CSS Styling
+- JavaScript Functionality
+- Learning Outcomes
+- Contributing
+- RLicense
+
 # Features
 - **Add Items:** Users can add new items to the shopping list.
 - **Mark as Purchased:** Items can be marked as purchased, visually distinguished with a strikethrough or background change.
@@ -23,12 +38,31 @@ Technologies Used
 
 
 # Installation
-No installation required! Just open the index.html file in your browser.
+1. **Clone the Repository:**
+`sh`
+**Copy code**
+git clone https://github.com/Abdulmajid-Aman/CodeLab
+2. **Navigate to the Project Directory:**
+`sh`
+**Copy code**
+``cd Week2``
+``cd CodeLab``
+4. **Open the index.html File in Your Browser:**
+sh
+**Copy code**
+``open index.html``
 
-# Usage
-- **Add an Item:** Type the item name into the input field and click the "Add" button.
-- **Mark as Purchased:** Click on any item in the list to mark it as purchased.
-- **Clear List:** Click the "Clear List" button to remove all items from the list.
+## Usage
+### Adding an Item
+1. Type the item name into the input field.
+2. Click the "Add" button or press Enter.
+3. The item will appear in the shopping list below.
+### Marking an Item as Purchased
+1. Click on any item in the list.
+2. The item will be marked as purchased with a strikethrough or background color change.
+### Clearing the List
+1. Click the "Clear List" button.
+2. All items will be removed from the shopping list.
 
 # File Structure
 - **index.html:** The main HTML file that loads the CSS and JavaScript files.
@@ -37,9 +71,16 @@ No installation required! Just open the index.html file in your browser.
 
 
 # Contributing
-Feel free to submit issues or pull requests. Contributions are welcome!
+1. **Fork the Project**
+2. **Create a Feature Branch:** ****git checkout -b feature/AmazingFeature****
+3. **Commit Your Changes:**  ****git commit -m 'Add some AmazingFeature'****
+4. **Push to the Branch:**  ****git push origin feature/AmazingFeature****
+5. **Open a Pull Request**
+*Contributions are welcome!*
+
+
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License** - see the LICENSE file for details.
 
-Project By : Abdulmajid Aman Hussein
+Project By : **Abdulmajid Aman Hussein**
